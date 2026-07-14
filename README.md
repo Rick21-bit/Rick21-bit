@@ -18,6 +18,7 @@ now i am rebuilding my public portfolio, learning in public and shipping project
 
 ## portfolio overview
 
+- **Live portfolio site:** https://rick21-bit.github.io/portfolio/
 - **60+ public repositories** shipped from 2021 to 2026
 - projects range from games and flutter apps to trading tools, automation workflows, ai prototypes, and saas ideas
 - most frontend projects include running demos via github pages
