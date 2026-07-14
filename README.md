@@ -128,15 +128,56 @@ now i am rebuilding my public portfolio, learning in public and shipping project
 
 ---
 
+## build logs
+
+Yearly commit logs showing daily learning, notes, and small experiments.
+
+| year | repo |
+|------|------|
+| 2021 | [2021-build-log](https://github.com/Rick21-bit/2021-build-log) |
+| 2022 | [2022-build-log](https://github.com/Rick21-bit/2022-build-log) |
+| 2023 | [2023-build-log](https://github.com/Rick21-bit/2023-build-log) |
+| 2024 | [2024-build-log](https://github.com/Rick21-bit/2024-build-log) |
+| 2025 | [2025-build-log](https://github.com/Rick21-bit/2025-build-log) |
+| 2026 | [2026-build-log](https://github.com/Rick21-bit/2026-build-log) |
+
+## C projects
+
+| project | what it does |
+|--------|-------------|
+| [2024-c-linked-list](https://github.com/Rick21-bit/2024-c-linked-list) | linked list with tests |
+| [2024-c-hash-table](https://github.com/Rick21-bit/2024-c-hash-table) | chaining hash table |
+| [2024-c-file-indexer](https://github.com/Rick21-bit/2024-c-file-indexer) | directory file indexer |
+| [2024-c-json-lexer](https://github.com/Rick21-bit/2024-c-json-lexer) | JSON tokenizer |
+| [2025-c-thread-pool](https://github.com/Rick21-bit/2025-c-thread-pool) | POSIX thread pool |
+| [2025-c-memory-arena](https://github.com/Rick21-bit/2025-c-memory-arena) | arena allocator |
+| [2025-c-log-parser](https://github.com/Rick21-bit/2025-c-log-parser) | structured log parser |
+| [2025-c-http-server](https://github.com/Rick21-bit/2025-c-http-server) | minimal HTTP server |
+| [2026-c-network-utils](https://github.com/Rick21-bit/2026-c-network-utils) | hostname resolution helpers |
+| [2026-c-unit-test-framework](https://github.com/Rick21-bit/2026-c-unit-test-framework) | tiny test macros |
+| [2026-c-event-loop](https://github.com/Rick21-bit/2026-c-event-loop) | cooperative loop |
+| [2026-c-bitmap-editor](https://github.com/Rick21-bit/2026-c-bitmap-editor) | grayscale bitmap structure |
+
+## TypeScript / Express REST APIs
+
+| project | what it does |
+|--------|-------------|
+| [2024-ts-task-api](https://github.com/Rick21-bit/2024-ts-task-api) | task management API |
+| [2024-ts-url-api](https://github.com/Rick21-bit/2024-ts-url-api) | URL shortener API |
+| [2025-ts-blog-api](https://github.com/Rick21-bit/2025-ts-blog-api) | blog posts API |
+| [2025-ts-auth-api](https://github.com/Rick21-bit/2025-ts-auth-api) | users and auth API |
+| [2026-ts-order-api](https://github.com/Rick21-bit/2026-ts-order-api) | e-commerce order API |
+| [2026-ts-chat-api](https://github.com/Rick21-bit/2026-ts-chat-api) | chat messages API |
+
 ## roadmap
 
 ```
 2021  php • javascript fundamentals
 2022  more javascript • flutter basics • clean code practice
 2023  node.js • typescript • server management
-2024  crypto • web3 automation • trading bots
-2025  ai apps • n8n automation • playwright scraping
-2026  logistics • web3 tools • saas products
+2024  crypto • web3 automation • trading bots • c • typescript apis
+2025  ai apps • n8n automation • playwright scraping • c • express apis
+2026  logistics • web3 tools • saas products • c • typescript apis
 ```
 
 ---
