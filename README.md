@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rick21-bit/portfolio/main/images/profile.jpg" width="150" height="150" style="border-radius: 50%;" alt="profile photo">
+  <img src="https://raw.githubusercontent.com/Rick21-bit/portfolio/main/images/profile.jpg?v=2" width="150" height="150" style="border-radius: 50%;" alt="profile photo">
   <h1>Eyoatam Wubeshet</h1>
   <p>full-stack developer · ai / automation / web3 explorer</p>
 </div>
