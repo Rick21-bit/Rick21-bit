@@ -1,18 +1,53 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rick21-bit/portfolio/main/images/profile.jpg?v=2" width="150" height="150" style="border-radius: 50%;" alt="profile photo">
   <h1>Eyoatam Wubeshet</h1>
+  <h3 align="center">Do it yourself!</h3>
   <p>full-stack developer · ai / automation / web3 explorer</p>
 </div>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rick21-bit&label=Profile%20views&color=0e75b6&style=flat" alt="Rick21-bit" /> </p>
 
-## about me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rick21-bit" alt="Rick21-bit" /></a> </p>
 
-i am a software developer who loves building real things that people can use. my journey started in 2021 with php and javascript, then i explored crypto and web3, automation, server management, flutter, and later ai.
+### Currently working on
 
-in 2023 i worked remotely for a web development team in india. it was a great experience but the workload was heavy alongside my university studies, so i stepped back to focus on my education.
+- I’m currently working on [PingPON v2](https://rick21-bit.github.io/2025-pingpon/) — a browser neuro-evolution playground with AI-vs-AI, an arena, and brain export.
+- Building [2026 product prototypes](https://github.com/Rick21-bit?tab=repositories) — logistics, Web3 wallet, and e-commerce storefront ideas.
+- Contributing to open source: [sharpemu](https://github.com/sharpemu/sharpemu) French translations and AGC event fixes.
+- How to reach me: **softwaredeveloper.ethiopia@gmail.com**
 
-now i am rebuilding my public portfolio, learning in public and shipping projects across web, automation, ai, and web3.
+### Connect with me
+
+<p align="left">
+<a href="https://github.com/Rick21-bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Rick21-bit" height="30" width="40" /></a>
+<a href="mailto:softwaredeveloper.ethiopia@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="email" height="30" width="40" /></a>
+</p>
+
+### Languages and Tools
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+</p>
+
+### GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rick21-bit&show_icons=true&locale=en&layout=compact" alt="Rick21-bit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rick21-bit&show_icons=true&locale=en" alt="Rick21-bit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rick21-bit&" alt="Rick21-bit" /></p>
 
 ---
 
@@ -22,20 +57,6 @@ now i am rebuilding my public portfolio, learning in public and shipping project
 - **60+ public repositories** shipped from 2021 to 2026
 - projects range from games and flutter apps to trading tools, automation workflows, ai prototypes, saas ideas, c systems, and typescript apis
 - most frontend projects include running demos via github pages
-
----
-
-## currently working on
-
-- [PingPON](https://rick21-bit.github.io/2025-pingpon/) — expanding a browser neuro-evolution playground
-- 2026 logistics, web3, and e-commerce prototypes
-
----
-
-## connect with me
-
-- email: softwaredeveloper.ethiopia@gmail.com
-- github: https://github.com/Rick21-bit
 
 ---
 
@@ -168,17 +189,6 @@ now i am rebuilding my public portfolio, learning in public and shipping project
 | [2026-web3wallet](https://github.com/Rick21-bit/2026-web3wallet) | browser wallet generator |
 | [2026-openclaw](https://github.com/Rick21-bit/2026-openclaw) | open source claw machine game |
 | [2026-amazon-clone](https://github.com/Rick21-bit/2026-amazon-clone) | amazon storefront clone |
-
----
-
-## skills
-
-- javascript, typescript, node.js, express
-- python, php, c
-- sql, sqlite
-- git, github, github actions
-- docker and deployment basics
-- flutter, tensorflow lite
 
 ---
 
