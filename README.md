@@ -11,10 +11,10 @@
 
 ### Currently working on
 
-- I’m currently working on [PingPON v2](https://rick21-bit.github.io/2025-pingpon/) — a browser neuro-evolution playground with AI-vs-AI, an arena, and brain export.
-- Building [2026 product prototypes](https://github.com/Rick21-bit?tab=repositories) — logistics, Web3 wallet, and e-commerce storefront ideas.
-- Contributing to open source: [sharpemu](https://github.com/sharpemu/sharpemu) French translations and AGC event fixes.
+- I’m currently working on [SafeWallet](https://rick21-bit.github.io/) — a cross chain blockchain hot wallet that servers as cold wallet
+- Contributing to open source: [sharpemu](https://github.com/sharpemu/sharpemu) PS5 emulator so we can play GTA 6 before 2028 😭😭 😂
 - How to reach me: **softwaredeveloper.ethiopia@gmail.com**
+
 
 ### Connect with me
 
@@ -58,18 +58,7 @@
 - projects range from games and flutter apps to trading tools, automation workflows, ai prototypes, saas ideas, c systems, and typescript apis
 - most frontend projects include running demos via github pages
 
----
 
-## build logs
-
-| year | repo |
-|------|------|
-| 2021 | [2021-build-log](https://github.com/Rick21-bit/2021-build-log) |
-| 2022 | [2022-build-log](https://github.com/Rick21-bit/2022-build-log) |
-| 2023 | [2023-build-log](https://github.com/Rick21-bit/2023-build-log) |
-| 2024 | [2024-build-log](https://github.com/Rick21-bit/2024-build-log) |
-| 2025 | [2025-build-log](https://github.com/Rick21-bit/2025-build-log) |
-| 2026 | [2026-build-log](https://github.com/Rick21-bit/2026-build-log) |
 
 ## C projects
 
