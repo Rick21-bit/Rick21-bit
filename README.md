@@ -13,7 +13,7 @@
 
 - I’m currently working on [SafeWallet](https://github.com/Rick21-bit/web3wallet) — a cross chain blockchain hot wallet that servers as cold wallet
 - Contributing to open source: [sharpemu](https://github.com/sharpemu/sharpemu) PS5 emulator so we can play GTA 6 before 2028 😭😭 😂
-- How to reach me: **softwaredeveloper.ethiopia@gmail.com**
+- How to reach me: **softwaredeveloper.ethiopia@gmail.com** [Telegram](https://t.me/hesthedev)
 
 
 ### Connect with me
@@ -177,6 +177,7 @@
 | [web3wallet](https://github.com/Rick21-bit/web3wallet) | browser wallet generator |
 | [openclaw](https://github.com/Rick21-bit/openclaw) | open source claw machine game |
 | [amazon-clone](https://github.com/Rick21-bit/amazon-clone) | amazon storefront clone |
+| [kohon-do](https://github.com/Rick21-bit/kohon-do) | used manga marketplace concept |
 
 ---
 
