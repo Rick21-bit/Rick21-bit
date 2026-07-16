@@ -155,6 +155,7 @@
 
 | project | what it does |
 |--------|-------------|
+| [invoicer](https://github.com/Rick21-bit/invoicer) | niche saas for freelancers with stripe billing |
 | [learningai](https://github.com/Rick21-bit/learningai) | ai learning notes |
 | [mynoteai](https://github.com/Rick21-bit/mynoteai) | ai ml notes app |
 | [firstann](https://github.com/Rick21-bit/firstann) | first neural network |
