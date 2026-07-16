@@ -180,6 +180,7 @@
 | [openclaw](https://github.com/Rick21-bit/openclaw) | open source claw machine game |
 | [amazon-clone](https://github.com/Rick21-bit/amazon-clone) | amazon storefront clone |
 | [kohon-do](https://github.com/Rick21-bit/kohon-do) | used manga marketplace concept |
+| [tutorscheduler](https://github.com/Rick21-bit/tutorscheduler) | tutor booking automation tool |
 
 ---
 
