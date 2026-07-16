@@ -138,6 +138,7 @@
 
 | project | what it does |
 |--------|-------------|
+| [jobscout](https://github.com/Rick21-bit/jobscout) | public job-board api with auth, rate limiting, tests |
 | [notcoin-tracker](https://github.com/Rick21-bit/notcoin-tracker) | token tracking dashboard |
 | [airdrophunter](https://github.com/Rick21-bit/airdrophunter) | airdrop helper |
 | [cryptompvbot](https://github.com/Rick21-bit/cryptompvbot) | crypto mpv bot |
